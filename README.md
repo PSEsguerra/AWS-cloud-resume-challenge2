@@ -11,11 +11,13 @@ of this challange include:
   - [Stage 0 - Certification](#stage-0---certification)
   - [Stage 1 - Creating Front End](#stage-1---creating-front-end)
 
-  - [Stage 2 - Building the API](#stage-2---building-the-api)
+  - [Stage 2 - Hosting the Website](#stage-2---hosting-the-website)
 
-  - [Stage 3 - Frontend \& Backend integration](#stage-3---frontend--backend-integration)
+  - [Stage 3 - Visitor Counter](#stage-3---visitor-counter)
 
-  - [Stage 4 - Automation \& CI/CD](#step-4---automation--cicd)
+  - [Stage 4 - Infrastructure as Code](#stage-4---infrastructure-as-code)
+
+  - [Stage 5 - Source Control CI/CD](#stage-5---source-control-cicd)
 
 ## Challenge stages
 
@@ -34,11 +36,14 @@ I was very new to programming to start this challange so I went and found some H
 help familiarize myself with HTML, CSS, and JavaScript. That is when I came across [HTML5up website](https://html5up.net/) which had all this components
 in a template format and I can reconfigure the website and make it my own while learning how to use frontend programming languages. 
 
-### Stage 2 - Building the API
+### Stage 2 - Hosting the Website
 
 
 
-### Stage 3 - Frontend & Backend integration
+### Stage 3 - Visitor Counter
 
 
-### Stage 4 - Automation & CI/CD
+### Stage 4 - Infrastructure as Code
+
+
+### Stage 5 - Source Control CI/CD
