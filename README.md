@@ -38,7 +38,7 @@ in a template format and I can reconfigure the website and make it my own while 
 
 ### Stage 2 - Hosting the Website
 
-I hosted the website on an S3 bucket by uploading my files manually 
+I hosted the website on an S3 bucket by uploading my files manually. I then configured CORS on the bucket.
 
 ### Stage 3 - Visitor Counter
 
